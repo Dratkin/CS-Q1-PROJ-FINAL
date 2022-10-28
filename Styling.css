@@ -154,8 +154,8 @@ ol  {
 .genre:hover  {
     display : inline-block;
     box-sizing : border-box;
-    width: 34%;
-    vertical-align : middle;
+    width: 32%;
+    vertical-align : middle;    
     border : 7px solid rgb(242, 22, 40);
     border-radius: 15px;
     transition : all 0.75s;
